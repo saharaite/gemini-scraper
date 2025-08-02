@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+lxml
+google-generativeai
+numpy
+selenium
+webdriver-manager
