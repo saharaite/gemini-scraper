@@ -32,7 +32,7 @@
 ### ۲. کلون کردن ریپازیتوری
 
 ```bash
-git clone [https://github.com/saharaite/gemini-scraper.git](https://github.com/saharaite/gemini-scraper.git)
+git clone https://github.com/saharaite/gemini-scraper.git
 cd gemini-scraper
 ```
 
